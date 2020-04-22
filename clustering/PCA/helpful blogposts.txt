@@ -1,0 +1,15 @@
+https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+
+https://elitedatascience.com/dimensionality-reduction-algorithms
+
+https://stats.stackexchange.com/questions/110508/questions-on-pca-when-are-pcs-independent-why-is-pca-sensitive-to-scaling-why
+
+
+https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
+
+https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2669932/
+
+
+https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
